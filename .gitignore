@@ -1,0 +1,20 @@
+# Conda environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Mac files (optional)
+.DS_Store
